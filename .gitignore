@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+garbage-classification/
+dataset/
+data/
+
+# Models (large files)
+*.h5
+*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
